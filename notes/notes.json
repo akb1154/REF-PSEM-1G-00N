@@ -1,0 +1,48 @@
+{
+	"meta" : {
+		"type":"presentation/pdf",
+		"topic":"ComputerScience",
+		"Kurs": "1p4"
+	},
+
+	"src":[
+		{
+			"url":"https://en.wikipedia.org/wiki/Computer_science",
+			"section": "TOC: no. 4",
+			"Fields": [
+				{
+					"name": "Theoretical CS",
+					"Subfields": [
+						"Theory of Computation", 
+						"Information and coding theory", 
+						"Data structures and algorithms",
+						"Programming language theory and formal methods"
+					]
+				},
+
+				{
+					"name":"Computer systems and computational processes",
+					"Subfields": [
+						"Artificial intelligence",
+						"Computer architecture and organization",
+						"Concurrent, parallel and distributed computing",
+						"Computer networks",
+						"Computer security and cryptography",
+						"Databases and data mining",
+						"Computer graphics and visualization",
+						"Image and sound processing"
+					]
+				},
+				 
+				{
+					"name": "Applied CS",
+					"Subfields":[
+						"Computational science, finance and engineering",
+						"Social computing and human–computer interaction",
+						"Software engineering"
+					]
+				}
+			]
+		}
+	] 
+}
