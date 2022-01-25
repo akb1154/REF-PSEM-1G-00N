@@ -38,8 +38,36 @@
 					"name": "Applied CS",
 					"Subfields":[
 						"Computational science, finance and engineering",
-						"Social computing and human–computer interaction",
+						"Social computing and human\u2013computer interaction",
 						"Software engineering"
+					]
+				}
+			]
+		},
+
+		{
+			"url":"https://computerscience.org/careers", 
+			"section":"Explore Computer Science Careers", 
+			"Fields":[
+				{
+					"name":"Jobs",
+					"values": [
+						"Computer Programmer", 
+						"Hardware Engineer",
+						"Software Engineer",
+						"Software Developer",
+						"Systems Manager", 
+						"Web Developers", 
+						"DB Admin",
+						"IT Architect",
+						"Net Admin", 
+						"Systems Agent", 
+						"Security Analyst", 
+						"Information Researcher", 
+						"Video Game Dev", 
+						"Health Information Technitian", 
+						"Data Scientist (act. More Maths)", 
+						"Web Designer"
 					]
 				}
 			]
