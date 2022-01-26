@@ -1,1 +1,5 @@
 /.vscode/
+ign.*
+*.ign
+*.ignore
+pptx/~$Berufsfeld.pptx

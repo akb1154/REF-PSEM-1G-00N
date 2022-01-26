@@ -1,0 +1,140 @@
+# Handout: Berufsfeld Computer Science
+<!--markdownlint-disable-file-->
+
+<!--bestimmt die style-argumente für die job_box divs-->
+<style>
+.container {
+	display: grid;
+	grid: repeat(2, auto) / auto-flow auto;
+	grid-template-columns: 2;
+	grid-template-rows: 2;
+}
+  
+.container > div {
+	background-color: #009090;
+	width: auto;
+	height: auto;
+	border-radius: 15px;
+	text-align: center;
+}
+
+</style>
+
+
+## Bereiche der Computer Science 
+
+1. Theorethische Computer Science
+2. Angewandte Computer Science
+3. Computersysteme und Computational Processes
+
+### 1-1: Theory of Computation
+
+Zentrale Fragen:
+> - Welche Probleme k&ouml;nnen wir, mit welchen Algorithmen, auf welchen Platformen, wie schnell bzw. zu welchem Grad l&ouml;sen?
+&nbsp;
+> - Was sind die fundamentalen F&auml;higkeiten & Limitationen von Computern?
+
+Dieser bereich wird in die *Automatentheorie und Formale Sprachen*, *Berechenbarkeitstheorie* und in die *Komplexit&auml;tstheorie* unterteilt.
+
+### 1-2: Informations und Codingtheorie
+
+> Die Bewegungen und Transformationen von Daten sind, wie Flüssigkeiten, an Mathemathische und Physikalische Gesetze gebunden. 
+
+Dieser bereich beschäftigt sich mit den Fragen, *was die beste Datenkomprimierung ist* oder *was die beste &uuml;bertragungsrate von Daten sei*. 
+
+### 1-3: Datenstrukturen- und Algorithmen
+
+Dieser Bereich beschäftigt sich hauptsächlich damit, wie man Daten besser Speichern, Nutzen, Sortieren, Ändern kann, etc. 
+
+### 1-4: Jobs mit Theorethischer CS
+<!--HTML-->
+<div class="container">
+	<div class="job_box">
+		<h4> Data Scientist </h4>
+		<i> Zieht u.a. aus großen Datenmengen Schlüsse </i>
+	</div>
+	<div class="job_box">
+		<h4> Netzwerk- / Datenbankadmin </h4>
+		<i>Übersieht Netzwerke / Datenbanken</i>
+	</div>
+	<div class="job_box">
+		<h4> Security Analyst</h4>
+		<i>Überprüft Software auf Schwachstellen</i>
+	</div>
+	<div class="job_box">
+		<h4> Systems Analyst </h4>
+		<i>  Überarbeitet, Verbessert vorhandene IT-Infrastrukturen </i>
+	</div>
+</div>
+<!--/HTML-->
+
+### 2-1: Social Computing
+
+Beschäftigt sich zum Großteil mit der Interaktion zwischen Menschen und Künstlichen Intelligenzen bzw. Menschen, z.B. auf Sozialen Netzwerken.
+
+Sie Werden dort auch zur Automatischen Erkennung von 
+(z.T. sexueller) Belästigung, oder zur künstlichen steigerung der Interaktion eingesetzt.
+
+### 2-2: Software Engineering
+
+Beschäftigt sich zum großteil damit, wie &mdash; und mit welcher bzw. welchen Programmiersprache(n) &mdash; man am besten seine Apps bzw. Spiele Aufbauen Sollte
+
+### 2-3: Jobs mit Angewandter CS
+<!--HTML-->
+<div class="container">
+	<div class="job_box">
+		<h4> Game Developer </h4>
+		<i> Entwickelt Spiele für Endgeräte </i>
+	</div>
+	<div class="job_box">
+		<h4> Web-Developer </h4>
+		<i> Entwickelt Web-Technologien und Webseiten </i>
+	</div>
+	<div class="job_box">
+		<h4> Software Engineer </h4>
+		<i> Entwirft und Vereint die Erstellung von Software </i>
+	</div>
+	<div class="job_box">
+		<h4> Computer Programmer </h4>
+		<i> Schreibt Quellcode für Apps/Programme </i>
+	</div>
+</div>
+<!--/HTML-->
+
+### 3-1: Machine Learning / Künstliche Intelligenz
+
+Machine Learning ist ein ansatz Rechnern das Lernen beizubringen, wie es kleine Kinder tun  
+=> Herdplatte: bei berührung wird der Algorythmus bestraft so, dass dieser nicht nochmal die Herdplatte anfasst.
+
+Braucht riesige Datenmengen zum Lernen; Wird aber trotzdem immer öfter eingesetzt, um z.B. die Interaktion künstlich zu steigern
+
+### 3-2: Cybersecurity & Cryptographie
+
+Dieser Teil beschäftigt sich damit, wie man den Datenverkehr, z.B. durch Verschlüsselung, sicher gestalten kann. 
+
+### 3-3: Computerarchitektur / Gleichzeitige, Paralelle und Verteilte Verarbeitung
+
+Hier wird hinterfragt, warum Computer so aufgebaut sind wie sie sind oder wie wir Computer aufbauen können, damit sie effizienter sind. Auch wird gefragt wie man Gleichzeitig, paralell, sicher und verteilt auf einige Computer Daten Verarbeiten kann. 
+
+### 3-4: Jobangebote
+<!--HTML-->
+<div class="container">
+	<div class="job_box">
+		<h4> Hardware Engineer </h4>
+		<i> Erstellt, Implementiert und testet physische componenten für Rechner </i>
+	</div>
+	<div class="job_box">
+		<h4> IT Architect </h4>
+		<i> Erstellt/Entwirft Daten- & Computernetzwerke</i>
+	</div>
+	<div class="job_box">
+		<h4> Systems Manager </h4>
+		<i>Überschaut und Coordinert IT Operationen
+</i>
+	</div>
+	<div class="job_box">
+		<h4> Systems Analyst </h4>
+		<i> Überarbeitet, Verbessert vorhandene IT-Infrastrukturen </i>
+	</div>
+</div>
+<!--/HTML-->
